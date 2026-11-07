@@ -55,3 +55,5 @@ Private code: [air-quality-bridge](https://github.com/logicencoder/air-quality-b
 See [REPOS.md](REPOS.md) for related repositories.
 
 **[Logic Encoder](https://logicencoder.com)** · [GitHub](https://github.com/logicencoder) · [Contact](https://logicencoder.com/contact/)
+
+<!-- TODO(screenshots, 2026-11-07): 2-3 interesting views instead of a single table -->
