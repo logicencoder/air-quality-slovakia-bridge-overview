@@ -24,7 +24,6 @@ Quick filters narrow the list to stations at a moderate quality level or worse, 
 
 Stations that stop reporting leave the board after a few hours instead of showing stale numbers, so a station that is missing is a station that has no recent data.
 
-![Air Quality dashboard with station table and quality classes](assets/slovak-air-quality-dashboard-station-table.png)
 
 ## Map: air quality in its place
 
@@ -33,6 +32,8 @@ The Map view places every station on a Leaflet map and colours each marker by it
 ## Stations
 
 The Stations view is the searchable directory. Filter by name or quality class, and read each station's readings together with their observation times, in the same quality colours as everywhere else in the dashboard. Because every figure carries its time, a reading from this hour is never confused with one from the previous hour.
+
+![Air Quality dashboard with station table and quality classes](assets/slovak-air-quality-dashboard-station-table.png)
 
 ## Pollutants
 
