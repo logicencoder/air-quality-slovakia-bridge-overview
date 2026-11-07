@@ -1,6 +1,6 @@
 # Slovak Air Quality Dashboard
 
-![Air Quality dashboard with station table and quality classes](assets/slovak-air-quality-dashboard-station-table.png)
+![Slovak Air Quality Dashboard history of hourly readings and station changes](assets/slovak-air-quality-dashboard-history-hourly-source-index.png)
 
 A single pollution reading means little without the station, the time and the surrounding history. The Slovak Air Quality Dashboard brings the hourly readings of every station in Slovakia's national monitoring network into one board and one map, so residents, parents, runners and anyone curious about the air can see where the air is clean, where it is not and how that changed over the last hours and days. It runs on [logicencoder.com](https://logicencoder.com) and updates every hour, matching the cadence of the published data.
 
@@ -23,6 +23,8 @@ The Overview view opens with a live summary: how many stations reported in the l
 Quick filters narrow the list to stations at a moderate quality level or worse, or at a poor level or worse, and a filter box finds a station by name. Paging at 25 stations per page keeps the network of more than fifty stations easy to scan. A distribution chart shows how many stations fall into each quality class, which answers the question "is it a bad day everywhere or only around a few stations" at a glance. A line with the national mean source index puts a single figure on the day; it is calculated from the stations that report an index, and the page says how many that is.
 
 Stations that stop reporting leave the board after a few hours instead of showing stale numbers, so a station that is missing is a station that has no recent data.
+
+![Air Quality dashboard with station table and quality classes](assets/slovak-air-quality-dashboard-station-table.png)
 
 ## Map: air quality in its place
 
