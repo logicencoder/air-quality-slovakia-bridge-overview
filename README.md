@@ -1,8 +1,8 @@
-# Slovak Air Quality Dashboard
+# Air Quality Slovakia
 
-![Slovak Air Quality Dashboard history of hourly readings and station changes](assets/slovak-air-quality-dashboard-history-hourly-source-index.png)
+![Air Quality Slovakia history of hourly readings and station changes](assets/slovak-air-quality-dashboard-history-hourly-source-index.png)
 
-A single pollution reading means little without the station, the time and the surrounding history. The Slovak Air Quality Dashboard brings the hourly readings of every station in Slovakia's national monitoring network into one board and one map, so residents, parents, runners and anyone curious about the air can see where the air is clean, where it is not and how that changed over the last hours and days. It runs on [logicencoder.com](https://logicencoder.com) and updates every hour, matching the cadence of the published data.
+A single pollution reading means little without the station, the time and the surrounding history. The Air Quality Slovakia brings the hourly readings of every station in Slovakia's national monitoring network into one board and one map, so residents, parents, runners and anyone curious about the air can see where the air is clean, where it is not and how that changed over the last hours and days. It runs on [logicencoder.com](https://logicencoder.com) and updates every hour, matching the cadence of the published data.
 
 ## Tech stack
 
