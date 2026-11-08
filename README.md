@@ -1,6 +1,6 @@
 # Air Quality Slovakia
 
-![Air Quality Slovakia history of hourly readings and station changes](assets/slovak-air-quality-dashboard-history-hourly-source-index.png)
+![Air Quality Slovakia history of hourly readings and station changes](assets/air-quality-slovakia-history-hourly-source-index.png)
 
 A single pollution reading means little without the station, the time and the surrounding history. The Air Quality Slovakia brings the hourly readings of every station in Slovakia's national monitoring network into one board and one map, so residents, parents, runners and anyone curious about the air can see where the air is clean, where it is not and how that changed over the last hours and days. It runs on [logicencoder.com](https://logicencoder.com) and updates every hour, matching the cadence of the published data.
 
@@ -33,7 +33,7 @@ The Map view places every station on a Leaflet map and colours each marker by it
 
 The Stations view is the searchable directory. Filter by name or quality class, and read each station's readings together with their observation times, in the same quality colours as everywhere else in the dashboard. Because every figure carries its time, a reading from this hour is never confused with one from the previous hour.
 
-![Air Quality dashboard with station table and quality classes](assets/slovak-air-quality-dashboard-station-table.png)
+![Air Quality dashboard with station table and quality classes](assets/air-quality-slovakia-station-table.png)
 
 ## Pollutants
 
