@@ -53,7 +53,7 @@ All figures come from the published readings of the Slovak national monitoring n
 
 ---
 
-Private code: [air-quality-bridge](https://github.com/logicencoder/air-quality-bridge)
+Private code: [air-quality-slovakia-bridge](https://github.com/logicencoder/air-quality-slovakia-bridge)
 
 See [REPOS.md](REPOS.md) for related repositories.
 
